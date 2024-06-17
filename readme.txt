@@ -1,3 +1,3 @@
 Welcome to MyProject
-Author: Jennifer Shawn
+Author: Jennifer Shawn Beightol
 Twitter:  @jennbeightol
