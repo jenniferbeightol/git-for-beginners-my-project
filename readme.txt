@@ -1,4 +1,4 @@
 Welcome to the "Git for Beginners" MyProject!
 Author: Jennifer Shawn Beightol
 Twitter:  @jennbeightol
-Website:  www.thomasclaudiushuber.com
+Website:  https://www.thomasclaudiushuber.com
